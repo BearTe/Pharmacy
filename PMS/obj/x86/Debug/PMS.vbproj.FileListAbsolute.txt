@@ -1,0 +1,142 @@
+E:\PROJECT\2016 PROJECT\BASHIM\SYSTEM\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmAddEditCompany.resources
+E:\PROJECT\2016 PROJECT\BASHIM\SYSTEM\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmAddEditEmployee.resources
+E:\PROJECT\2016 PROJECT\BASHIM\SYSTEM\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmAddEditProduct.resources
+E:\PROJECT\2016 PROJECT\BASHIM\SYSTEM\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmDatabase.resources
+E:\PROJECT\2016 PROJECT\BASHIM\SYSTEM\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmMain.resources
+E:\PROJECT\2016 PROJECT\BASHIM\SYSTEM\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.Resources.resources
+E:\PROJECT\2016 PROJECT\BASHIM\SYSTEM\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.vbproj.GenerateResource.Cache
+E:\PROJECT\2016 PROJECT\BASHIM\SYSTEM\PharmacyManagementSystem\PMS\bin\Debug\PMS.exe
+E:\PROJECT\2016 PROJECT\BASHIM\SYSTEM\PharmacyManagementSystem\PMS\bin\Debug\PMS.pdb
+E:\PROJECT\2016 PROJECT\BASHIM\SYSTEM\PharmacyManagementSystem\PMS\bin\Debug\PMS.xml
+E:\PROJECT\2016 PROJECT\BASHIM\SYSTEM\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.exe
+E:\PROJECT\2016 PROJECT\BASHIM\SYSTEM\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.xml
+E:\PROJECT\2016 PROJECT\BASHIM\SYSTEM\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.pdb
+E:\PROJECT\2016 PROJECT\BASHIM\SYSTEM\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmListCompany.resources
+E:\PROJECT\2016 PROJECT\BASHIM\SYSTEM\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmHome.resources
+E:\PROJECT\2016 PROJECT\BASHIM\SYSTEM\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmListEmployee.resources
+E:\PROJECT\2016 PROJECT\BASHIM\SYSTEM\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmListProduct.resources
+E:\PROJECT\2016 PROJECT\BASHIM\SYSTEM\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmAddEditStock.resources
+E:\PROJECT\2016 PROJECT\BASHIM\SYSTEM\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmLoadCompany.resources
+E:\PROJECT\2016 PROJECT\BASHIM\SYSTEM\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmAddEditOrder.resources
+E:\PROJECT\2016 PROJECT\BASHIM\SYSTEM\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmLoadProduct.resources
+E:\PROJECT\2016 PROJECT\BASHIM\SYSTEM\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmPOS.resources
+E:\PROJECT\2016 PROJECT\BASHIM\SYSTEM\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmListOrder.resources
+E:\PROJECT\2016 PROJECT\BASHIM\SYSTEM\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmAddProductOrder.resources
+E:\PROJECT\2016 PROJECT\BASHIM\SYSTEM\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmPayment.resources
+E:\PROJECT\2016 PROJECT\BASHIM\SYSTEM\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmPrintReceipt.resources
+E:\PROJECT\2016 PROJECT\BASHIM\SYSTEM\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmListTransactions.resources
+E:\PROJECT\2016 PROJECT\BASHIM\SYSTEM\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmUpdateTransactionPayment.resources
+E:\PROJECT\2016 PROJECT\BASHIM\SYSTEM\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmAddEditExpenses.resources
+E:\PROJECT\2016 PROJECT\BASHIM\SYSTEM\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmLoadEmployee.resources
+E:\PROJECT\2016 PROJECT\BASHIM\SYSTEM\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmListExpenses.resources
+E:\PROJECT\2016 PROJECT\BASHIM\SYSTEM\PharmacyManagementSystem\PMS\obj\x86\Debug\RdlCompile.cache
+E:\PROJECT\2016 PROJECT\BASHIM\SYSTEM\PharmacyManagementSystem\PMS\obj\x86\Debug\RdlCompile.compiled
+E:\PROJECT\2016 PROJECT\BASHIM\SYSTEM\PharmacyManagementSystem\PMS\bin\Debug\PMS.exe.config
+E:\PROJECT\2016 PROJECT\BASHIM\SYSTEM\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.vbprojResolveAssemblyReference.cache
+E:\PROJECT\2016 PROJECT\BASHIM\SYSTEM\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmSelectReport.resources
+E:\PROJECT\2016 PROJECT\BASHIM\SYSTEM\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmStocksIn.resources
+E:\PROJECT\2016 PROJECT\BASHIM\SYSTEM\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmOrderDetailReport.resources
+E:\PROJECT\2016 PROJECT\BASHIM\SYSTEM\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmOrderListReport.resources
+E:\PROJECT\2016 PROJECT\BASHIM\SYSTEM\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmProductSales.resources
+E:\PROJECT\2016 PROJECT\BASHIM\SYSTEM\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmExpensesReport.resources
+E:\PROJECT\2016 PROJECT\BASHIM\SYSTEM\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmListExpiredStocks.resources
+E:\PROJECT\2016 PROJECT\BASHIM\SYSTEM\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmLogin.resources
+E:\PROJECT\2016 PROJECT\BASHIM\SYSTEM\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmUser.resources
+E:\PROJECT\2016 PROJECT\BASHIM\SYSTEM\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmAddEditOrderPayment.resources
+E:\PROJECT\2016 PROJECT\BASHIM\SYSTEM\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmLoadOrder.resources
+E:\PROJECT\2016 PROJECT\BASHIM\SYSTEM\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmListOrderPayment.resources
+E:\PROJECT\2016 PROJECT\BASHIM\SYSTEM\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmListExpensesByEmployee.resources
+E:\PROJECT\2016 PROJECT\BASHIM\SYSTEM\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmSQLServerBackupRestore.resources
+E:\PROJECT\2016 PROJECT\BASHIM - POS\SYSTEM\PharmacyManagementSystem\PMS\bin\Debug\PMS.exe.config
+E:\PROJECT\2016 PROJECT\BASHIM - POS\SYSTEM\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.exe
+E:\PROJECT\2016 PROJECT\BASHIM - POS\SYSTEM\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.xml
+E:\PROJECT\2016 PROJECT\BASHIM - POS\SYSTEM\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.pdb
+C:\Users\user-pc\Desktop\POS PHARMACY\PharmacyManagementSystem\PMS\bin\Debug\PMS.exe.config
+C:\Users\user-pc\Desktop\POS PHARMACY\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.exe
+C:\Users\user-pc\Desktop\POS PHARMACY\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.xml
+C:\Users\user-pc\Desktop\POS PHARMACY\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.pdb
+C:\Users\user-pc\Desktop\POS PHARMACY\PharmacyManagementSystem\PMS\bin\Debug\PMS.exe
+C:\Users\user-pc\Desktop\POS PHARMACY\PharmacyManagementSystem\PMS\bin\Debug\PMS.pdb
+C:\Users\user-pc\Desktop\POS PHARMACY\PharmacyManagementSystem\PMS\bin\Debug\PMS.xml
+C:\Users\user-pc\Desktop\POS PHARMACY\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.vbprojResolveAssemblyReference.cache
+C:\Users\user-pc\Desktop\POS PHARMACY\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmAddEditCompany.resources
+C:\Users\user-pc\Desktop\POS PHARMACY\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmAddEditEmployee.resources
+C:\Users\user-pc\Desktop\POS PHARMACY\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmAddEditExpenses.resources
+C:\Users\user-pc\Desktop\POS PHARMACY\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmAddEditOrder.resources
+C:\Users\user-pc\Desktop\POS PHARMACY\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmAddEditOrderPayment.resources
+C:\Users\user-pc\Desktop\POS PHARMACY\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmAddEditProduct.resources
+C:\Users\user-pc\Desktop\POS PHARMACY\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmAddEditStock.resources
+C:\Users\user-pc\Desktop\POS PHARMACY\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmAddProductOrder.resources
+C:\Users\user-pc\Desktop\POS PHARMACY\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmUpdateTransactionPayment.resources
+C:\Users\user-pc\Desktop\POS PHARMACY\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmSQLServerBackupRestore.resources
+C:\Users\user-pc\Desktop\POS PHARMACY\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmDatabase.resources
+C:\Users\user-pc\Desktop\POS PHARMACY\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmHome.resources
+C:\Users\user-pc\Desktop\POS PHARMACY\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmLoadCompany.resources
+C:\Users\user-pc\Desktop\POS PHARMACY\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmLoadEmployee.resources
+C:\Users\user-pc\Desktop\POS PHARMACY\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmLoadOrder.resources
+C:\Users\user-pc\Desktop\POS PHARMACY\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmLoadProduct.resources
+C:\Users\user-pc\Desktop\POS PHARMACY\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmLogin.resources
+C:\Users\user-pc\Desktop\POS PHARMACY\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmUser.resources
+C:\Users\user-pc\Desktop\POS PHARMACY\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmListExpenses.resources
+C:\Users\user-pc\Desktop\POS PHARMACY\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmListExpensesByEmployee.resources
+C:\Users\user-pc\Desktop\POS PHARMACY\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmListExpiredStocks.resources
+C:\Users\user-pc\Desktop\POS PHARMACY\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmListOrderPayment.resources
+C:\Users\user-pc\Desktop\POS PHARMACY\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmListTransactions.resources
+C:\Users\user-pc\Desktop\POS PHARMACY\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmExpensesReport.resources
+C:\Users\user-pc\Desktop\POS PHARMACY\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmOrderDetailReport.resources
+C:\Users\user-pc\Desktop\POS PHARMACY\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmOrderListReport.resources
+C:\Users\user-pc\Desktop\POS PHARMACY\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmProductSales.resources
+C:\Users\user-pc\Desktop\POS PHARMACY\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmSelectReport.resources
+C:\Users\user-pc\Desktop\POS PHARMACY\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmStocksIn.resources
+C:\Users\user-pc\Desktop\POS PHARMACY\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmPayment.resources
+C:\Users\user-pc\Desktop\POS PHARMACY\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmPOS.resources
+C:\Users\user-pc\Desktop\POS PHARMACY\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmPrintReceipt.resources
+C:\Users\user-pc\Desktop\POS PHARMACY\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmListCompany.resources
+C:\Users\user-pc\Desktop\POS PHARMACY\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmMain.resources
+C:\Users\user-pc\Desktop\POS PHARMACY\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmListEmployee.resources
+C:\Users\user-pc\Desktop\POS PHARMACY\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmListOrder.resources
+C:\Users\user-pc\Desktop\POS PHARMACY\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmListProduct.resources
+C:\Users\user-pc\Desktop\POS PHARMACY\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.Resources.resources
+C:\Users\user-pc\Desktop\POS PHARMACY\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.vbproj.GenerateResource.Cache
+C:\Users\user-pc\Desktop\POS PHARMACY\PharmacyManagementSystem\PMS\obj\x86\Debug\RdlCompile.cache
+C:\Users\user-pc\Desktop\POS PHARMACY\PharmacyManagementSystem\PMS\obj\x86\Debug\RdlCompile.compiled
+C:\Users\kelio\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.vbprojAssemblyReference.cache
+C:\Users\kelio\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmAddEditCompany.resources
+C:\Users\kelio\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmAddEditEmployee.resources
+C:\Users\kelio\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmAddEditExpenses.resources
+C:\Users\kelio\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmAddEditOrder.resources
+C:\Users\kelio\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmAddEditOrderPayment.resources
+C:\Users\kelio\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmAddEditProduct.resources
+C:\Users\kelio\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmAddEditStock.resources
+C:\Users\kelio\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmAddProductOrder.resources
+C:\Users\kelio\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmUpdateTransactionPayment.resources
+C:\Users\kelio\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmSQLServerBackupRestore.resources
+C:\Users\kelio\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmDatabase.resources
+C:\Users\kelio\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmHome.resources
+C:\Users\kelio\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmLoadCompany.resources
+C:\Users\kelio\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmLoadEmployee.resources
+C:\Users\kelio\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmLoadOrder.resources
+C:\Users\kelio\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmLoadProduct.resources
+C:\Users\kelio\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmLogin.resources
+C:\Users\kelio\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmUser.resources
+C:\Users\kelio\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmListExpenses.resources
+C:\Users\kelio\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmListExpensesByEmployee.resources
+C:\Users\kelio\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmListExpiredStocks.resources
+C:\Users\kelio\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmListOrderPayment.resources
+C:\Users\kelio\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmListTransactions.resources
+C:\Users\kelio\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmExpensesReport.resources
+C:\Users\kelio\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmOrderDetailReport.resources
+C:\Users\kelio\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmOrderListReport.resources
+C:\Users\kelio\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmProductSales.resources
+C:\Users\kelio\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmSelectReport.resources
+C:\Users\kelio\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmStocksIn.resources
+C:\Users\kelio\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmListCompany.resources
+C:\Users\kelio\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmMain.resources
+C:\Users\kelio\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmListEmployee.resources
+C:\Users\kelio\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmListOrder.resources
+C:\Users\kelio\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.frmListProduct.resources
+C:\Users\kelio\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.Resources.resources
+C:\Users\kelio\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.vbproj.GenerateResource.cache
+C:\Users\kelio\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.vbproj.CoreCompileInputs.cache
+C:\Users\kelio\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.xml
+C:\Users\kelio\Desktop\PharmacyManagementSystem\PharmacyManagementSystem\PMS\obj\x86\Debug\PMS.pdb
